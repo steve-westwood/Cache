@@ -1,0 +1,12 @@
+/Users/stevewestwood/Work/Research/Caching/src/Caching.Core/bin/Debug/net7.0/Caching.Core.deps.json
+/Users/stevewestwood/Work/Research/Caching/src/Caching.Core/bin/Debug/net7.0/Caching.Core.dll
+/Users/stevewestwood/Work/Research/Caching/src/Caching.Core/bin/Debug/net7.0/Caching.Core.pdb
+/Users/stevewestwood/Work/Research/Caching/src/Caching.Core/obj/Debug/net7.0/Caching.Core.csproj.AssemblyReference.cache
+/Users/stevewestwood/Work/Research/Caching/src/Caching.Core/obj/Debug/net7.0/Caching.Core.GeneratedMSBuildEditorConfig.editorconfig
+/Users/stevewestwood/Work/Research/Caching/src/Caching.Core/obj/Debug/net7.0/Caching.Core.AssemblyInfoInputs.cache
+/Users/stevewestwood/Work/Research/Caching/src/Caching.Core/obj/Debug/net7.0/Caching.Core.AssemblyInfo.cs
+/Users/stevewestwood/Work/Research/Caching/src/Caching.Core/obj/Debug/net7.0/Caching.Core.csproj.CoreCompileInputs.cache
+/Users/stevewestwood/Work/Research/Caching/src/Caching.Core/obj/Debug/net7.0/Caching.Core.dll
+/Users/stevewestwood/Work/Research/Caching/src/Caching.Core/obj/Debug/net7.0/refint/Caching.Core.dll
+/Users/stevewestwood/Work/Research/Caching/src/Caching.Core/obj/Debug/net7.0/Caching.Core.pdb
+/Users/stevewestwood/Work/Research/Caching/src/Caching.Core/obj/Debug/net7.0/ref/Caching.Core.dll
